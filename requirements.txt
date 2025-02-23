@@ -1,0 +1,15 @@
+# import torch
+# import torch.nn as nn
+# import torch.nn.functional as F
+# import streamlit as st
+# from PIL import Image
+# import torch
+# import torchvision.transforms as transforms
+# from models import MLP, CNN, LeNet5
+
+torch
+torchvision
+streamlit
+Pillow
+torchaudio
+
