@@ -80,3 +80,5 @@ This project is licensed under the **MIT License**.
 💡 **Author:** Kumar Kartikay  
 📧 **Contact:** [Kartikaykumar550@gmail.com]  
 🔗 **GitHub:** [(https://github.com/Kartikay02)]  
+
+Here is the Deployed project online you can check the demo of this project (https://handwritten-digit-recognition2-gdmxrww9vakauv5lt3kj5r.streamlit.app/)
