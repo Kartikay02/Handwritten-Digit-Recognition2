@@ -1,7 +1,11 @@
 # Handwritten Digit Recognition using LeNet-5
 
 ## 📌 Overview
-This project implements a **Handwritten Digit Recognition System** using the **LeNet-5** deep learning architecture in **PyTorch**. The model is trained on the **MNIST dataset**, which consists of 60,000 training images and 10,000 test images of handwritten digits (0-9). The goal is to accurately classify handwritten digits using a convolutional neural network (CNN).
+The Handwritten Digit Recognition project focuses on building a deep learning model capable of accurately identifying digits (0–9) from handwritten images. This model was developed using the LeNet-5 architecture, a pioneering convolutional neural network (CNN), implemented with the PyTorch deep learning framework.
+
+The system leverages the MNIST dataset, a widely-used benchmark dataset consisting of 60,000 training images and 10,000 testing images of grayscale handwritten digits. The model learns hierarchical representations of the digits through convolutional and pooling layers, followed by fully connected layers that perform the classification.
+
+Key processes in the project included data preprocessing, model design using PyTorch, training the CNN, evaluating model performance, and testing accuracy. The project demonstrated the ability of CNNs to effectively learn spatial hierarchies in image data, achieving high accuracy in digit recognition.
 
 ## 🚀 Features
 - **Deep Learning Model:** Uses the **LeNet-5** CNN architecture for digit classification.
